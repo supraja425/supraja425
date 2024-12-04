@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @supraja425
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning DSA with java
+
 
 
 <!---
